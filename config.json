@@ -8,7 +8,7 @@
     "text": "Miquel Sánchez Osuna"
   },
   "text": {
-    "more": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination. Plasmid mobility was predicted using the MOB_suite. “Highly disseminated” accounts for ARO-COGs with DI \u003e 0.75, “Disseminated” for ARO-COGs with 0 \u003e DI \u003e 0.75 and “Non-disseminated” for ARO-COGs with DI \u003d 0. ",
+    "more": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination. Legend:\nPlasmid mobility: non-mobilizable (Group1), conjugative (Group2), mobilizable (Group3)\nARO_COG dissemination: non-disseminated (Group4), highly disseminated (Group5), disseminated (Group6)",
     "intro": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination.",
     "title": "arg_gc network"
   },
