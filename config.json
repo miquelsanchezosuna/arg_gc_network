@@ -8,9 +8,9 @@
     "text": "Miquel Sánchez Osuna"
   },
   "text": {
-    "more": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination. Legend:\nPlasmid mobility: mobilizable (Group1), conjugative (Group2), non-mobilizable (Group3).\nARO_COG dissemination: non-disseminated (Group4), highly disseminated (Group5), disseminated (Group6)",
+    "more": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination. Legend: Plasmid mobility: mobilizable (Group3), conjugative (Group1), non-mobilizable (Group4). ARO_COG dissemination: non-disseminated (Group2), highly disseminated (Group6), disseminated (Group5)",
     "intro": "Bipartite network illustrating the correlation between predicted plasmid mobility and ARG dissemination.",
-    "title": "arg_gc network"
+    "title": "arg_NOG_network"
   },
   "legend": {
     "edgeLabel": "ARG presence in plasmid",
